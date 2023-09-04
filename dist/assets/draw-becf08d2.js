@@ -1,0 +1,1 @@
+import{_ as t,e as o,c as a,f as n,w as s,o as c,h as r}from"./index-c3948595.js";const p={};function _(l,d,f,m,u,i){const e=o("Samp");return c(),a("div",null,[n(e,null,{default:s(()=>[r("21")]),_:1})])}const $=t(p,[["render",_]]);export{$ as default};
