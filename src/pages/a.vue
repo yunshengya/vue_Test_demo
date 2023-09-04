@@ -35,7 +35,7 @@ export default {
         title: {
           text: '月销售额',
           textStyle: {
-            //主标题文本设置
+            //主标题文本设
             color: '#000', //颜色
             fontSize: 20, //大小
             // fontStyle: 'oblique', //斜体
